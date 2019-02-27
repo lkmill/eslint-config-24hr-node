@@ -1,0 +1,42 @@
+{
+  "name": "eslint-config-24hr-node",
+  "version": "0.0.1",
+  "description": "Eslint for 24HR Malmo",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24hr-malmo/eslint-config-24hr-node.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "24hr"
+  ],
+  "peerDependencies": {
+    "eslint": "5.14.1",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "author": "Faddi Idris <faddi.idris@gmail.com>",
+  "contributors": [
+    {
+      "name": "Camilo Tapia",
+      "email": "camilo.tapia@gmail.com",
+      "url": "https://1001.io"
+    },
+    {
+      "name": "Linus Miller",
+      "email": "lohfu@lohfu.io",
+      "url": "https://lohfu.io"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/24hr-malmo/eslint-config-24hr-node/issues"
+  },
+  "homepage": "https://github.com/24hr-malmo/eslint-config-24hr-node#readme"
+}
